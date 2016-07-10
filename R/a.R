@@ -16,7 +16,6 @@ myfun <- function(
 }
 
 
-#' @export
 obtw <- function(...) {
   #' @title Oh, by the way
 }
