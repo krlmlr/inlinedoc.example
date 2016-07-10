@@ -2,15 +2,17 @@
 % Please edit documentation in R/a.R
 \name{myfun}
 \alias{myfun}
+\title{Do some of my stuff}
 \usage{
 myfun(some_param = "default_value")
 }
 \arguments{
-\item{some_param}{Some argument, default: \code{default_value}
-Do some of my stuff
-
+\item{some_param}{Some argument, default: \code{default_value}}
+}
+\description{
 Gets my stuff done. Snappy.
-
-The \code{\link{obtw}} function makes sure time constraints are kept.}
+}
+\details{
+The \code{\link{obtw}} function makes sure time constraints are kept.
 }
 
